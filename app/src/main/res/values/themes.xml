@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TOKOH2HEBATDIISLAM" parent="Theme.Material3.Dark">
+        <item name="colorPrimary">@color/color1</item>
+        <item name="colorOnPrimary">@color/color3</item>
+        <item name="colorSecondary">@color/color4</item>
+        <item name="colorPrimaryVariant">@color/lavender</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.TOKOH2HEBATDIISLAM" parent="Base.Theme.TOKOH2HEBATDIISLAM" />
+</resources>

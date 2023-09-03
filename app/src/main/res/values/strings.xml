@@ -1,0 +1,239 @@
+<resources>
+   <string name="app_name">TOKOH  HEBAT DI ISLAM</string>
+
+   <string name="deskripsi">deskripsi\n</string>
+   <string name="tokohislam_name">Tokoh Islam\n</string>
+   <string name="list">List</string>
+   <string name="grid">Grid</string>
+   <string name="about_title">Tentang diri\n</string>
+
+   <!-- Menambahkan string untuk nama asal sekolah dan jurusan -->
+
+   <string name="nama">MUHAMMAD FAISHOL WIJANARKO</string>
+   <string name="schoolname">UNIVERSITAS ESA UNGGUL</string>
+   <string name="jurusan">Jurusan Ilmu Komputer</string>
+   <string name="version">"Version 0.1  "</string>
+
+   <!-- ... (string resources yang telah ada) ... -->
+
+   <!-- Nama-nama Ulama -->
+   <string-array name="ulama_names">
+      <item>Imam Syafi`e</item>
+      <item>Imam Ahmad Ibn Hajar Al-Asqalani</item>
+      <item>Imam Nawawi</item>
+      <item>Imam Al-Qurtubi</item>
+      <item>Imam Ibn Hajar Al-Haitami</item>
+      <item>Imam Al-Hujjah Zakariyya Al-Ansari</item>
+      <item>Imam Abu Bakar Baqilani</item>
+      <item>Imam Nasafi</item>
+      <item>Imam Syarbini</item>
+      <item>Abu Hayyan al-Nahwi</item>
+      <item>Syeikh Ali Gomaa, Grand Mufti Mesir</item>
+      <item>Imam maliki</item>
+   </string-array>
+
+   <!-- Deskripsi Nama-nama Ulama -->
+   <string-array name="ulama_descriptions">
+        <item>
+        Imam Syafi`e adalah salah satu ulama besar dalam mazhab Syafi`i dan
+        penulis kitab Al-Risalah. Abu Abdullah Muhammad bin Idris
+            al-Syafi’e atau yang sering disebut Imam Syafi’e lahir pada
+            150 H di Asqalan, Gaza, Palestina. Beliau juga merupakan ulama
+            besar pada 204 H . Beliau adalah seorang mufti besar sunni Islam
+            dan juga pendiri Mazhab Syafi’e. Imam Syafi’e juga tergolong
+            kerabat dari Rasulullah SAW.
+        Saat usia 20 tahun, Imam Syafi’i pergi ke Madinah untuk
+            berguru kepada ulama besar saat itu, Imam Malik. Dua tahun
+            kemudian, ia juga pergi ke Iraq, untuk berguru pada murid-murid
+            Imam Hanafi di sana.
+        Salah satu karangannya adalah “Ar risalah” buku pertama
+            tentang usul fiqh dan kitab “Al Umm” yang berisi mazhab
+            fiqhnya yang baru. Imam Syafi’i adalah seorang mujtahid mutlak,
+            imam fiqh, hadis, dan usul.
+        Imam Ahmad berkata tentang Imam Syafi’e: ”Dia adalah
+            orang yang paling faqih dalam Al Quran dan As
+            Sunnah, Tidak seorang pun yang pernah memegang
+            pena dan tinta (ilmu) melainkan Allah memberinya
+            di ‘leher’ Syafi’e,”.
+        Imam Syafi’e memiliki sifat amanah, zuhud, wara’,
+            takwa, dermawan, tingkah lakunya yang baik, darjatnyayang tinggi.
+
+        Imam Syafi’e wafat pada malam Jum’at menjelang subuh pada hari
+            terakhir bulan Rajab tahun 204 Hijriyyah pada usia 52 tahun di Kaherah, Mesir.
+
+        Sayyidah Nafisah pernah meminta untuk memasukkan jenazah Imam
+            Syafi’e ke rumahnya, setelah jenazah dimasukkan, dia
+            turun ke halaman rumah kemudian solat jenazah, dan berkata:
+            “Semoga Allah merahmati asy-Syafi’i, sungguh ia benar-benar
+            berwudhu dengan baik.”
+    </item>
+
+      <item>
+            Imam Ibnu Hajar Al-Asqalani: Ulama Besar yang Berangkat Yatim Piatu
+
+
+Namanya sangat masyhur, keilmuannya tidak diragukan lagi, khususnya dalam ilmu hadits dan fiqih. Ia seorang anak yatim piatu namun semangatnya tak punah bahkan mengalahkan mereka yang masih memiliki orang tua lengkap.
+
+
+Ia adalah seorang faqih (ahli fiqih) yang kredibel dan pernah menjabat sebagai Qadhi al-Qudhat (hakim agung) mazhab Syafi’i. Ia juga seorang muhaddits (ahli hadits), bahkan ia memiliki gelar amirul mukminin dalam ilmu hadits.
+
+
+Imam al-Hafizh Ibnu Hajar al-Asqalani, begitulah namanya dikenal banyak orang. Nama lengkapnya adalah Imam Syihabuddin Abul Fadl Ahmad bin Ali bin Muhammad bin Ali bin Mahmud bin Ahmad al-Asqalani Al-Mishri asy-Syafi’i.
+
+
+Ia dilahirkan pada bulan Sya’ban tahun 773 H/1372 M di desa Asqalan (Ashkelon), Palestina, dan wafat pada tahun 852 H/1449 M.
+
+
+Para ulama masih berbeda pendapat perihal tempat kelahiran Imam Ibnu Hajar. Ada yang mengatakan bahwa kelahirannya di desa Asqalan, Palestina, sebagaimana yang sudah tersemat pada namanya, yaitu al-Asqalani.
+
+
+Ada juga yang mengatakan bahwa kelahirannya di Mesir, tepatnya di dekat sungai Nil. Namun, pada intinya ulama sepakat bahwa ia tumbuh dan wafat di Kairo, Mesir. (Ibnu Hajar, Muqaddimah Tadzibut Tahdzib, [Darul Ma’arif an-Nidhamiah: 1326], juz,halaman).
+
+        </item>
+      <item>Imam Nawawi adalah penulis kitab Riyadhus Shalihin dan
+            ulama ahli hadis terkemuka.
+
+        Siapa yang tidak kenal dengan Imam an-Nawawi, ulama tersohor dari Damaskus yang tidak saja populer karena mampu menulis banyak kitab, tetapi juga menjadikan kitab-kitab yang ditulisnya sebagai rujukan penting dalam madzhab Syafi’i. Sejarah mencatat, produktivitas Imam an-Nawawi sudah dimulai saat usia muda, yaitu saat memasuki usia 25 tahun.
+
+Imam Ibnul ‘Atthar, salah satu murid an-Nawawi, mencatat bahwa memasuki usia 19 tahun, Imam an-Nawawi baru masuk pesantren. Usia yang bisa dibilang sangat terlambat pada saat itu, mengingat umumnya anak-anak sudah mesantren sebelum usia baligh. Hanya butuh waktu enam tahun menuntut ilmu agama (tepat saat usia 25 tahun), an-Nawawi sudah mulai menulis kitab. (Imam an-Nawawi, Raudhatuth Thâlibîn, [Beirut: Darul Kutb al-‘Ilmiyah, 2003], juz 1, h. 54)
+
+Lalu, ke mana an-Nawawi sebelum mesantren itu? Masa kecilnya digunakan untuk membantu orang tuanya menjaga toko ayahnya di Nawa (pusat kota al-Jaulan, kawasan Hauran, provinsi Damaskus). Meskipun begitu, ia tidak lepas untuk selalu membaca dan menghafal Al-Qur’an.
+
+Dikisahkan, saat an-Nawawi baru usia 10 tahun, teman-teman seusianya tidak mau mengajaknya bermain. an-Nawawi lari dan menangis atas perlakukan teman-temannya itu. Lalu ia menyendiri membaca al-Qur’an.
+
+Syekh Yasin bin Yusuf al-Marakisyi (seorang waliyullah) yang menyaksikan peristiwa itu merasa iba dan berkata kepada an-Nawai, “Kelak, anak kecil ini akan menjadi orang yang paling ‘alim dan zuhud di zamannya. Banyak manusia mendapatkan manfaat dari ilmunya.”
+“Apakah engkau seorang peramal?” Kata an-Nawawi heran.
+“Bukan, Allah telah berkata begitu padaku,” jawab al-Marakisyi.
+
+
+Sejak perjumpaannya dengan al-Marakisyi, an-Nawawi sangat termotivasi sampai bisa menghafalkan al-Qur’an sebelum mencapai usia baligh. (an-Nawawi, Al-Majmû’ Syarah al-Muhadzdzab, [Beirut: Darul Kutub al-‘Ilmiyah, 2011], juz 1, h. 297)
+
+Dengan hanya usia yang kurang lebih 45 tahun, ia menulis karya-karya besarnya. Menurut Syekh Abdul Ghani ad-Daqir, jika usia an-Nawawi dikalkulasikan dengan hasil buah karyanya, rata-rata dalam satu hari Imam An-Nawawi bisa menulis sebanyak dua buku. (Abdul Ghani ad-Daqir, Silsilatu A’lâmil Muslimîn [Beirut, Darul Qalam, 1994], juz XII, h. 2)
+
+Hemat penulis, Imam an-Nawawi sebenarnya bisa lebih dari dua kitab dalam satu hari, pasalnya, ad-Daqir mengkalkulasikan masa menulis an-Nawawi dari total usianya, 45 tahun. Sementara menurut Imam Ibnul ‘Atthar, an-Nawawi baru menulis kitab sejak usia 25 tahun. Artinya, sampai an-Nawawi wafat (usia 45 tahun), ia mengahbiskan usia 20 tahun untuk menulis kitab-kitabnya.
+
+Nama lengkap an-Nawawi adalah Abu Zakaria Yahya bin Syarafuddin Muri bin Hasan bin Husain bin Muhammad bin Jum’ah bin Hizam al-Hizami an-Nawawi. Kata ‘an-Nawawi’ merupakan nisbat pada kota Nawa, sebuah pusat kota Al-Jaulan yang berada di Kawasan Hauran di provinsi Damaskus. Jadi Imam Nawawi adalah orang Damaskus karena selama lebih dari delapa belas tahun ia menetap di sana. Imam an-Nawawi sendiri dijuluki Muḫyiddîn (penghidup agama). Sebenarnya ia sendiri kurang berkenan dipanggil dengan julukan tersebut, saking tawadhunya.
+        </item>
+
+      <item>Imam Al-Qurtubi adalah penulis kitab Tafsir al-Jalalain
+            dan ahli tafsir terkemuka.
+      Imam al-Qurthubi memiliki nama lengkap, Abu Abdullah Muhammad bin Ahmad bin Abi Bakr bin Farh .... Al-Anshari al-Khazraji al-Qurthubi. Informasi tentang kehidupannya sedikit sekali diketahui. Tentang kelahirannnya, hanya diketahui bahwa ia lahir di Spanyol tahun 580 H bertepatan dengan tahun 1184 M.
+Dalam beberapa catatan biografinya, nama guru-gurunya antara lain; Abu al-Abbas bin Umar al-Qurthubi (578 H/1 173h-656 H/1259 M), seorang ahli fikih, dan Abu Ali al-Hasan bin Muhammad al-Bakri, ahli hadis.
+Imam al-Qurthubi adalah ulama’ besar yang terkenal shaleh dan Warak. Ia termasuk ulama fikih besar yang memiliki kearifan dan wawasan luas. Ia berperilaku zuhud, hal ini tercermin dalam kepribadiannya yang senantiasa meninggalkan atau menghindari kesenangan dunia ini. Ketika berjalan, ia merasa cukup dengan hanya mengenakan sehelai kain dan memakai kopiah.
+Imam al-Qurthubi wafat pada hari senin tanggal 9 Syawal 671 h/1272 M di Kaira, Mesir. Kemudian pada tahun 1971 M, dibangun masjid besar yang diberikan nama al-Qurthuba
+Sebagai seorang ulama al-Qurthubi termasuk faqih dari kalangan mazhab Maliki, Imam al-Qurthubi meninggalkan fanatisme jauh-jauh serta menghargai setinggi-tingginya perbedaan pendapat. Imam al-Qurthubi tidak senantiasa sependapat dengan Imam Mazhabnya dan ulama’ lain, baik di dalam maupun di luar mazhabnya, namun tidak mengundang polemik. Tafsirnya, al-Jami’ fi Ahkam al-Quran, merupakan suatu karya Ensiklopedis yang menyatukan hadits dengan masalah-masalah ibadah, hukum dan linguistik.
+Selain sebagai faqih, Imam al-Qurthubi juga dikenal sebagai mufassir yang andal. Bahkan tafsir merupakan karyanya yang terbesar. Dari buku tafsirnya banyak diketahui pemikirannya tentang hukum.
+
+      </item>
+      <item>Imam Ibn Hajar Al-Haitami adalah seorang ulama besar dalam bidang fiqih dan penulis kitab Tuhfat al-Muhtaj.
+      imam Ibn Hajar Al Haitami nama lengkap beliau adalah Syihabuddin bin Ahmad Ibnu Hajar al-haitami,
+         beliau dilahirkan di mesir pada tahun 909 H . Wafat di Makkah pada tahun 974 H. Pada masa kecilnya beliau telah ditinggal ayahnya, kemudian di asuh oleh kakeknya dan setelah kakenya meninggal beliau di asuh oleh dua syekh yaitu: Syeikh Syihabuddin Abul Hamail, Syeikh Syamsuddin Asy-Syanawi
+      Kedua syekh tersebut juga merupakan guru dari ayahnya syeikh Ibnu Hajar al-Haitami. Saat beberapa lama beliau bersama kedua syeikh tersebut kemudian Syeikh Syamsuddin asy-Syanawi menyuruh beliau untuk berkunjung ketempat kediaman syeikh Saidi Ahmad Badawi untuk menguji beberapa ilmu yang beliau miliki pada saat itu.
+         Lalu beliau disuruh ke Universiti al-Azhar untuk menjumpai beberapa syeikh-syeikh, termasuk diantara mereka  yaitu syeikh Zakaria al-anshari, guna dan maksud untuk memperdalam ilmunya. Beliau pada saat itu masih berumur 14 tahun, Saat itulah beliau membaca ilmu dihadapan mereka yang kemudian mendapat hadiah yang sangat berkesan dari Syeikh Zakaria al-anshariy, yakni dengan mendoakan kepada beliau agar dijadikan seorang ulama yang sangat a’lim dalam ilmu fiqh.
+      Pada saat menimba ilmu di al-Azhar, beliau sempat merasakan kehidupan yang sangat perih. Sehingga pernah merasakan kelaparan yang kemungkinan tidak ada orang yang bisa menanggungnya melainkan taufiq dan pertolongan dari Allah Swt. Selama empat tahun beliau tinggal di al-Azhar tidak pernah makan daging.
+         Setelah beliau menebarkan ilmunya di Makkah al-Mukarramah, dihadiri oleh ribuan murid-murid yang setia kepada beliau, umur yang berkat telah dihabiskan untuk mengajar umat tentang agama mereka sehingga beliau lanjut usia, sakit pun mendatangi beliau sehingga beliau terpaksa meninggalkan kursi pengajian.
+          Tepat pada tanggal 13 rajab tahun 974 hijriyah akhirnya beliau menutup mata dengan ridha menghadap tuhannya, ketika itu berarti beliau berumur 65 tahun Hijriah. Beribu murid menangisi atas kepergian beliau, umat bersedih dengan wafatnya ulama panutan, para ulama merasa begitu kehilangan dengan seorang ulama yang ramah dan berilmu tinggi. Akhirnya beliau diusung ke Masjid al-Haram Makkah dan
+         di shalatkan di bawah pintu ka`bah, kemudian di bawa ke perkuburan al-Ma`la dan di kuburkan di tempat penyaliban sahabat yang mulia Abdullah bin Zubair.
+
+      </item>
+      <item>Imam Al-Hujjah Zakariyya Al-Ansari adalah seorang ulama
+            besar dalam mazhab Hanafi dan penulis kitab Fath al-Qadir.
+
+         Imam Al-Hujjah Zakariyya Al-Ansari adalah seorang ulama terkemuka dalam mazhab Hanafi,
+         lahir pada tahun 963 M di Khwarezm. Kehidupannya yang didedikasikan untuk pembelajaran dan
+         pengajaran ilmu agama menghasilkan karyanya yang paling terkenal, "Fath al-Qadir," sebuah syarah
+         yang komprehensif dari kitab "Al-Hidayah" yang memperjelas hukum-hukum mazhab Hanafi. Karyanya yang
+         mendalam ini telah menjadi rujukan utama bagi para pelajar dan ulama dalam pemahaman hukum Islam dalam
+         mazhab Hanafi dan telah memberikan kontribusi besar terhadap pemeliharaan dan
+         penyebaran tradisi Hanafi di seluruh dunia Islam. Imam Al-Hujjah Zakariyya Al-Ansari wafat pada tahun
+         1519 M di Bukhara, meninggalkan warisan ilmiah yang terus dihormati dan dipelajari hingga saat ini.
+      </item>
+      <item>Imam Abu Bakar Baqilani adalah seorang ulama besar dalam
+            bidang kalam (teologi Islam).
+         Nama lengkapnya adalah Muhammad bin al-Tayyib bin Muhammad Abu Bakar al-Qadli yang terkenal dengan al-Baqillani.
+         Ia adalah seorang teolog madzhab al-Asy’ari berasal dari kota Basrah, dan menetap di Bagdad. Selain ahli teologi,
+         ia juga ahli hadis. Ia wafat pada hari sabtu di tanah Qin bulan Zulqa’dah tahun 403 H. Tentang keilmuan, Ia termasuk orang
+         yang paling mengerti masalah kalam, mempunyai pemikiran yang baik, indah dalam menyampaikan pembicaraan, bisa menjelaskan
+         sesuatu dengan gamblang dan benar. Ia pecipta konsepsi “Ikhtiyar” dalam ajaran al-Asy’ari.
+         Karya-karyanya amat banyak dan mengesankan. Terutama tentang ilmu kalam yang mengkritik pandangan-pandangan Syiah Rafidlah,
+         Mu’tazilah, Jahmiyah, dan Khawarij.
+
+      </item>
+      <item>Imam Nasafi adalah penulis kitab al-Aqaid al-Nasafiyyah
+            dan ulama dalam bidang aqidah.
+      Imam Al-Nasafi adalah seorang ulama Islam yang terkenal dengan kitabnya "Al-Aqaid al-Nasafiyyah."
+         Kitab ini membahas keyakinan-keyakinan mazhab Maturidi dalam bidang aqidah (keyakinan) Islam.
+         Imam Al-Nasafi berasal dari Nasaf, Uzbekistan, dan kitabnya ini menjadi salah satu
+         karya penting dalam pemahaman aqidah dalam mazhab Maturidi.
+         Kitab "Al-Aqaid al-Nasafiyyah" telah digunakan sebagai rujukan dalam pengajaran aqidah
+         di sekolah-sekolah Islam dan tetap relevan hingga saat ini dalam tradisi Sunni.
+      </item>
+
+      <item>Imam Syarbini adalah penulis kitab Mughni al-Muhtaj
+            dan ulama dalam bidang fiqih.
+
+         Imam Shurubini, atau Taqi al-Din Ahmad ibn Taymiyyah al-Shurubini, adalah seorang ulama
+         dalam mazhab Hanbali. Beliau terkenal sebagai penulis kitab "Mughni al-Muhtaj,"
+         sebuah karya penting dalam pemahaman hukum Islam dalam mazhab Hanbali. Lahir pada tahun 1290 M di Mesir,
+         Imam Shurubini memperoleh pendidikan agama yang kuat dan menjadi
+         otoritas dalam mazhab Hanbali. Kitabnya "Mughni al-Muhtaj" menjadi referensi utama dalam mazhab tersebut
+         dan tetap relevan hingga hari ini.
+         Beliau wafat pada tahun 1340 M di Mesir,
+         meninggalkan warisan ilmiah yang signifikan dalam studi fiqih Hanbali.
+      </item>
+
+      <item>Abu Hayyan al-Nahwi adalah seorang ulama besar dalam
+            bidang bahasa Arab.
+         Abu Hayyan al-Nahwi adalah seorang ulama besar dalam bidang bahasa Arab.
+         Nama lengkapnya adalah Abu Hayyan Tahir ibn Muhammad ibn Ahmad al-Nahwi al-Andalusi.
+         Beliau berasal dari Andalusia (Spanyol Islam) dan merupakan salah satu cendekiawan terkemuka
+         dalam ilmu bahasa Arab pada masa itu.
+         Abu Hayyan al-Nahwi dikenal atas kontribusinya dalam pemahaman tata bahasa dan sastra Arab.
+         Karyanya yang paling terkenal adalah "Al-Kitab al-Af`al,"
+         yang membahas konjugasi kata kerja dalam bahasa Arab, dan "Al-Bahr al-Muhit,"
+         yang merupakan kamus sastra dan tata bahasa Arab yang sangat dihormati.
+         Abu Hayyan al-Nahwi hidup pada abad ke-13 dan 14 Masehi dan memberikan
+         sumbangan penting dalam menjaga dan memahami kekayaan bahasa Arab.
+      </item>
+
+      <item>Syeikh Ali Gomaa adalah Grand Mufti Mesir dan seorang ulama
+            terkemuka dalam dunia Islam.
+         Syeikh Ali Gomaa adalah Grand Mufti Mesir dan seorang ulama terkemuka dalam dunia Islam.
+         Beliau dikenal sebagai otoritas dalam masalah-masalah hukum Islam (fatwa) dan pemikiran Islam kontemporer.
+         Gomaa menjabat sebagai Grand Mufti Mesir dari tahun 2003 hingga 2013,
+         dan selama masa jabatannya, ia memberikan pandangan dan bimbingan hukum
+         terkait berbagai isu sosial dan agama yang relevan dengan masyarakat Muslim.
+         Kontribusinya dalam memberikan pandangan hukum Islam yang moderat dan relevan dengan
+         zaman modern telah membuatnya dihormati dan diakui di seluruh dunia Islam.
+      </item>
+      <item>
+        Imam Malik bin Anas, Pendiri Mazhab Maliki
+         Imam Malik bin Anas adalah seorang ulama besar yang lahir di Madinah pada tahun 711 M.
+         Dia adalah pendiri mazhab Maliki, salah satu dari empat mazhab hukum Islam utama.
+         Imam Malik terkenal karena karyanya yang disebut "Al-Muwatta," yang berisi hadis-hadis sahih dan fatwa-fatuanya.
+         Mazhab Maliki dikenal dengan kekhususan dalam mempertimbangkan praktik dan
+         pendapat penduduk Madinah dalam hukum Islam.
+         Imam Malik memiliki warisan ilmiah yang besar dan pengaruh yang kuat dalam pengembangan hukum Islam.
+      </item>
+
+   </string-array>
+
+
+   <array name="ulama_images">
+      <item>@drawable/gambartokoislam1</item>
+      <item>@drawable/gambartokoislam2</item>
+      <item>@drawable/imamnawawi</item>
+      <item>@drawable/gambartokoislam4</item>
+      <item>@drawable/gambartokoislam5</item>
+      <item>@drawable/gambartokoislam6</item>
+      <item>@drawable/gambartokoislam11</item>
+      <item>@drawable/gambartokoislam8</item>
+      <item>@drawable/imamsyarbini</item>
+      <item>@drawable/abuhayyanalnahwi</item>
+      <item>@drawable/gambartokoislam10</item>
+      <item>@drawable/imam</item>
+
+   </array>
+
+
+</resources>
